@@ -36,6 +36,7 @@ body{
      float:left;
      background-color: #f8fcf8;
      margin-bottom: 5px;
+    
 }
 
 #content{
@@ -55,3 +56,4 @@ body{
 a{
     margin-inline: 20px;
 }
+
