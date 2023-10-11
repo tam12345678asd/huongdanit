@@ -1,6 +1,7 @@
 body{
     font-family: Arial, Tahoma;
     font-size: 12px;
+    height: 100vh; 
 }
 #main{
     width: 1000px;
@@ -8,7 +9,7 @@ body{
     margin-left: auto;
     margin-right: auto;
 }
-
+ss
 #header{
 
     height: 50px;
@@ -55,5 +56,4 @@ body{
 
 a{
     margin-inline: 20px;
-}
-
+} 
